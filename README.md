@@ -8,11 +8,12 @@ Connect with me: <a href="https://www.linkedin.com/in/davsantiago/" target="blan
 
 * Networking:
   * [NSGaC - Network Security Groups as Code](https://github.com/dawlysd/azure-nsgac)
-  * [DNS Private Resolver - MicroHack](https://github.com/dawlysd/azure-dns-private-resolver-microhack)
+  * [DNS Private Resolver - **MicroHack**](https://github.com/dawlysd/azure-dns-private-resolver-microhack)
+  * [Azure Application Gateway - **MicroHack**](https://github.com/dawlysd/azure-application-gateway-microhack)
   * [LAB - Expose on-premise applications to Azure with Application Gateway](https://github.com/dawlysd/lab-ag-onpremiseapplications)
   * [LAB - Azure Route Server - Anycast multi-region load balancing](https://github.com/dawlysd/lab-azure-routeserver-anycast)
-  * [Azure Firewall & Application Gateways - Scenarios](https://github.com/dawlysd/azure-ag-with-azfw)
   * [LAB - Azure Connection Monitor with Bicep](https://github.com/dawlysd/lab-azure-connection-monitor-with-bicep)
+  * [Azure Firewall & Application Gateways - Scenarios](https://github.com/dawlysd/azure-ag-with-azfw)
 
 * Patching Management 
   * [Azure Update Management with tags](https://github.com/dawlysd/azure-update-management-with-tags)
