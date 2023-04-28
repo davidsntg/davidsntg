@@ -23,7 +23,7 @@ Connect with me: <a href="https://www.linkedin.com/in/davsantiago/" target="blan
 
 * Containers
   * [Deploy umami with Azure Container Apps](https://github.com/dawlysd/deploy-umami-azure-container-apps)
-  * [LAB - AKS Monitoring with Splunk](github.com/dawlysd/aks-monitoring-splunk)
+  * [LAB - AKS Monitoring with Splunk](https://github.com/dawlysd/aks-monitoring-splunk)
   
 * Subscription quotas
   *  [Monitor Subscription quotas with Logic App](https://github.com/dawlysd/azure-quotas-monitoring-logicapp) 
