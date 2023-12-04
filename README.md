@@ -7,6 +7,7 @@ Connect with me: <a href="https://www.linkedin.com/in/davsantiago/" target="blan
 ### Azure Repos 
 
 * Networking:
+  * [MicroHack - Azure - Palo Alto Networks VM-Series Firewall Deployment](https://github.com/davidsntg/microhack-azure-panfw/)
   * [NSGaC - Network Security Groups as Code](https://github.com/davidsntg/azure-nsgac)
   * [DNS Private Resolver - **MicroHack**](https://github.com/davidsntg/azure-dns-private-resolver-microhack)
   * [Azure Application Gateway - **MicroHack**](https://github.com/davidsntg/azure-application-gateway-microhack)
