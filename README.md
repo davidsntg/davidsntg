@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am currently working as a Cloud Solution Architect Engineering @Microsoft.
+I am currently working as a Cloud Solution Architect @Microsoft.
 
 Connect with me: <a href="https://www.linkedin.com/in/davsantiago/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david-santiago" height="15" width="20" /></a>
 
